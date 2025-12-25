@@ -19,7 +19,7 @@ Significance Level ($\alpha$): 0.05.Power ($1-\beta$): 0.80.3.
 Sample: ~2,510 users per group (5,020 total).  
 Daily Traffic: ~680 users reaching the paywall.  
 Actual Test Period: 21 days (from 2023-07-03 to 2023-07-25) to account for weekly seasonality.  
-## 📈 Visualizations1. 
+## 📈 Visualizations 
 1. Conversion DistributionThe bar chart illustrates the significant increase in absolute conversions in Group B despite having nearly equal user counts.
 2. Confidence IntervalsThe non-overlapping error bars for Group A (6.10%) and Group B (8.90%) confirm the statistical reliability of the performance gap.
 3. Dynamics Over TimeTime-series analysis shows that Group B consistently outperformed Group A throughout the 21-day period, with a notable spike in conversion on the final day.
